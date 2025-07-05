@@ -1,0 +1,13 @@
+numpy==1.26.1
+pandas==2.1.3
+yfinance==0.2.33
+quantstats==0.0.62
+tensorflow==2.15.0
+keras==2.15.0
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+notebook==7.0.6
+# zipline has dependency on 'Ta-lib', but requires manual steps as outlined in instructions
+# or install Ta-lib manaully from here https://zipline.ml4trading.io/install.html
+zipline-reloaded==3.0.3 
+scikit-learn==1.3.2
