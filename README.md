@@ -24,5 +24,4 @@ This project implements a hybrid stock trading strategy that combines deep learn
 - `requirements.txt`  
   → Lists Python package dependencies required to run the project.
 
-- `README.md`  
-  → Documentation outlining the project, methodology, setup, and usage.
+
